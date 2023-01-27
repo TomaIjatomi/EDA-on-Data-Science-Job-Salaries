@@ -23,7 +23,7 @@ Below are highlights of some visualizations carried out on features:
 * Most Data Science employees and Companies are resident in the United States. However, the location where the highest average salary is paid is Russia; followed closely by the United States.
 * The Number of Data Science jobs and the salary are increasing with each year and experience-level.
 * Medium-sized and Large-sized companies pay high salaries in comparison to small-sized companies.
-* Typical Salary ranges for Data Science positions are between 50,000-150,000 (USD).
+* The average salary for Data Science Jobs in USD is 112,297.87.
 
 
 ### It is important to note that the insights are based on a sample of 607 participants and may not be representative of the entire data professional population.
