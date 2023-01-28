@@ -26,4 +26,4 @@ Below are highlights of some visualizations carried out on features:
 * The average salary for Data Science Jobs in USD is 112,297.87.
 
 
-### It is important to note that the insights are based on a sample of 607 participants and may not be representative of the entire data professional population.
+### It is important to note that the insights are based on a sample of 607 participants and may not be representative of the entire population of data science professionals.
